@@ -1,8 +1,0 @@
-n = print(“Ingrese su nombre:  ”)
-a = print(“Ingrese su apellido: ”)
-c = print(“Ingrese su código de sección: ”)
-s = print(“Ingrese la sede que estudia: ”)
-print(n)
-print(a)
-print(c)
-print(s)
